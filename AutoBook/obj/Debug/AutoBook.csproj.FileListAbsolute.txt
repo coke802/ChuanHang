@@ -1,0 +1,12 @@
+d:\AutoBook\AutoBook\bin\Debug\AutoBook.exe.config
+d:\AutoBook\AutoBook\bin\Debug\AutoBook.exe
+d:\AutoBook\AutoBook\bin\Debug\AutoBook.pdb
+d:\AutoBook\AutoBook\obj\Debug\AutoBook.MainForm.resources
+d:\AutoBook\AutoBook\obj\Debug\AutoBook.Properties.Resources.resources
+d:\AutoBook\AutoBook\obj\Debug\AutoBook.csproj.GenerateResource.cache
+d:\AutoBook\AutoBook\obj\Debug\AutoBook.csproj.CoreCompileInputs.cache
+d:\AutoBook\AutoBook\obj\Debug\AutoBook.exe
+d:\AutoBook\AutoBook\obj\Debug\AutoBook.pdb
+d:\AutoBook\AutoBook\obj\Debug\Interop.SHDocVw.dll
+d:\AutoBook\AutoBook\obj\Debug\AutoBook.csproj.ResolveComReference.cache
+D:\AutoBook\AutoBook\obj\Debug\AutoBook.Form1.resources
